@@ -1,0 +1,10 @@
+[
+  {
+    "id": "string",
+    "title": "string",
+    "amount": "number",
+    "status": "string",
+    "createdAt": "string",
+    "updatedAt": "string"
+  }
+]
