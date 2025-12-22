@@ -1,34 +1,10 @@
 [
   {
-    "id": "500",
-    "name": "Albert Petrosyan",
-    "email": "slavaUkraine",
+    "id": "546",
+    "name": "Johnny Doe",
+    "email": "john@example.com",
     "role": "user",
-    "createdAt": "2003 tiv",
-    "updatedAt": "2025-12-22T11:30:14.124Z"
-  },
-  {
-    "id": "501",
-    "name": "Alen Yeghyan",
-    "email": "hdasfalhj@mail.ru",
-    "role": "user",
-    "createdAt": "2004 tiv",
-    "updatedAt": "2025-12-22T11:21:00.660Z"
-  },
-  {
-    "id": "533",
-    "name": "Alen Yeghyan",
-    "email": "hd2004alen@mail.ru",
-    "role": "user",
-    "createdAt": "2025-12-17T10:06:47.818Z",
-    "updatedAt": "2025-12-17T10:53:19.231Z"
-  },
-  {
-    "id": "534",
-    "name": "Poghos Poghosyan",
-    "email": "la@mail.ru",
-    "role": "user",
-    "createdAt": "2025-12-17T10:07:02.649Z",
-    "updatedAt": "2025-12-17T10:07:02.649Z"
+    "createdAt": "2025-12-22T15:58:02.097Z",
+    "updatedAt": "2025-12-22T15:58:02.097Z"
   }
 ]

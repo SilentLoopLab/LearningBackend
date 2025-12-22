@@ -42,7 +42,7 @@ const usersRoutes = async (req, res, endpoint, id) => {
                     return;
                 } else {
                     const id = uniqID();
-                    const createdAt = dateNow()
+                    const createdAt = dateNow();
                     const updatedAt = createdAt;
                     const newUser = {
                         id,
@@ -144,7 +144,7 @@ const usersRoutes = async (req, res, endpoint, id) => {
                 return;
             }
             const allUsers = readJSON(endpoint);
-            const patchUser = allUsers.find(u => u.id === id);
+            const patchUser = allUsers.find((u) => u.id === id);
             if (!patchUser) {
                 sendResponse(res, statusCode.Not_Found, {
                     status: 404,
