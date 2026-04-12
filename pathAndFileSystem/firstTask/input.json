@@ -1,0 +1,37 @@
+[
+  {
+    "first_name": "Anna",
+    "last_name": "Petrosyan",
+    "age": 24,
+    "city": "Yerevan",
+    "job_title": "Graphic Designer"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Hakobyan",
+    "age": 31,
+    "city": "Gyumri",
+    "job_title": "Backend Developer"
+  },
+  {
+    "first_name": "Mariam",
+    "last_name": "Sargsyan",
+    "age": 27,
+    "city": "Vanadzor",
+    "job_title": "Teacher"
+  },
+  {
+    "first_name": "Arman",
+    "last_name": "Karapetyan",
+    "age": 35,
+    "city": "Dilijan",
+    "job_title": "Photographer"
+  },
+  {
+    "first_name": "Lilit",
+    "last_name": "Mkrtchyan",
+    "age": 29,
+    "city": "Abovyan",
+    "job_title": "Project Manager"
+  }
+]
