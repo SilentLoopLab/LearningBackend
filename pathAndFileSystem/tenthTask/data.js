@@ -1,0 +1,7 @@
+module.exports = {
+    first_name: "Anna",
+    last_name: "Petrosyan",
+    age: 24,
+    city: "Yerevan",
+    job_title: "Graphic Designer",
+};

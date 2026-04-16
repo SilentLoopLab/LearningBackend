@@ -1,0 +1,6 @@
+Hello, {{name}}!
+Thank you for your order #{{orderNumber}}.
+The total amount due is {{amount}}.
+We have already started processing your order.
+If you need any help, please reply to this message.
+Best regards, the service team.
